@@ -1,0 +1,11 @@
+duckdb
+notebook
+jupysql
+duckdb-engine
+pandas       
+matplotlib
+seaborn
+ndjson
+xmltodict
+folium
+
