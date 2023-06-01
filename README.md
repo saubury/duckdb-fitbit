@@ -1,4 +1,6 @@
-# DuckDB and FitBit data
+# Fitbit activity analysis with DuckDB
+
+You can read the blog [Fitbit activity analysis with DuckDB](https://simon-aubury.medium.com/my-very-personal-data-warehouse-fitbit-activity-analysis-with-duckdb-8d1193046133) for an overview of this project.
 
 ## Setup virtual python environment
 Create a [virtual python](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/) environment to keep dependencies separate. The _venv_ module is the preferred way to create and manage virtual environments. 
