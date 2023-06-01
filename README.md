@@ -19,6 +19,8 @@ pip install -r requirements.txt
 
 # Fitbit analysis
 
+Have a look at the [notebook](./fitbit-analysis.ipynb). A simplified static copy of the steps are copied below.
+
 ## Download Fitbit data
 Export your Fitbit data for the lifetime of your account by following the instructions at [Export Your Account Archive](https://www.fitbit.com/settings/data/export)
 
